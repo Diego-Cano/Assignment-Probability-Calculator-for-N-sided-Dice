@@ -2,7 +2,6 @@
 
 A program that calculates the probability distribution when rolling **M number of N-sided dice**.
 
----
 
 ## Features
 
@@ -11,7 +10,6 @@ A program that calculates the probability distribution when rolling **M number o
 - Display probabilities for each possible sum  
 - Simple command-line user interface  
 
----
 
 ## Files
 
@@ -19,7 +17,6 @@ A program that calculates the probability distribution when rolling **M number o
 - `test_dice.py`: Test cases for the core functions  
 - `main.py`: User interface for the program  
 
----
 
 ## How to Run
 
